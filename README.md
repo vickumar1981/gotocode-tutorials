@@ -1,6 +1,6 @@
 # Introduction to C++ and Java Tutorials For Beginners #
 
-This repository consists of tutorials regarding C++ and Java with examples.
+This repository contains of tutorials regarding C++ and Java with examples.
 
 ## Table Of Contents in Introduction to C++ ##
 - Intro to C++
